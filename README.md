@@ -21,12 +21,48 @@ RPA Developer with 12+ years of experience building intelligent automation solut
 ![AppSignal](https://img.shields.io/badge/AppSignal-E53E3E?style=flat)
 ![UiPath](https://img.shields.io/badge/UiPath-F26522?style=flat)
 
-Open-source monitoring tool for UiPath Orchestrator built for government and critical infrastructure teams. Tracks job health, queue stats, and sends alerts via AppSignal.
+Open-source monitoring tool for UiPath Orchestrator — tracks job health, queue stats, and sends observability alerts. Built for government and critical infrastructure teams.
 
 **Key details:**
 - Real-time job and queue monitoring
-- AppSignal integration for observability
-- Built for high-availability government environments
+- AppSignal integration for alerts and observability
+- Designed for high-availability government environments
+
+---
+
+### Government Process Automation — Eligibility & Benefits Workflows
+![UiPath](https://img.shields.io/badge/UiPath-F26522?style=flat&logo=uipath&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+End-to-end RPA automation for state government eligibility determination and benefits processing workflows. Reduced manual processing time significantly across multiple departments.
+
+**Key details:**
+- Automated eligibility checks across multiple legacy systems
+- Exception handling and audit trail logging
+- Integrated with state mainframe and web portals
+
+---
+
+### Document Processing Automation — Invoice & Claims
+![UiPath](https://img.shields.io/badge/UiPath-F26522?style=flat&logo=uipath&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-Document%20AI-34A853?style=flat)
+
+Intelligent document processing pipeline for invoice validation and claims management using UiPath Document Understanding and OCR.
+
+**Key details:**
+- Automated extraction and validation of structured/unstructured documents
+- ML-based document classification
+- Reduced manual review effort across finance operations
+
+---
+
+### Power Automate — Enterprise Workflow Automation
+![PowerAutomate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
+![Microsoft365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft&logoColor=white)
+
+Cloud-based workflow automation using Power Automate for enterprise approval flows, SharePoint integrations, and Teams notifications.
 
 ---
 
@@ -68,7 +104,9 @@ Open-source monitoring tool for UiPath Orchestrator built for government and cri
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerr937-ai&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerr937-ai&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudheerr937-ai&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 
