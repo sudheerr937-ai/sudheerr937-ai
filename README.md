@@ -11,7 +11,7 @@
 
 **Sudheer Reddy Patlolla**
 
-RPA Developer with 12+ years of experience building intelligent automation solutions for enterprise and government clients. UiPath Advanced Certified. Active in open source (Microcks, Robot Framework, UiPath) and passionate about cloud-native tooling, process automation, and building reliable systems at scale.
+RPA Developer with 12+ years of experience building intelligent automation solutions for enterprise clients. UiPath Advanced Certified. Active in open source (Microcks, Robot Framework, UiPath) and passionate about cloud-native tooling, process automation, and building reliable systems at scale.
 
 ---
 
@@ -23,51 +23,12 @@ RPA Developer with 12+ years of experience building intelligent automation solut
 ![AppSignal](https://img.shields.io/badge/AppSignal-E53E3E?style=flat)
 ![UiPath](https://img.shields.io/badge/UiPath-F26522?style=flat)
 
-Open-source monitoring tool for UiPath Orchestrator built for government and critical infrastructure teams. Tracks job health, queue stats, and sends observability alerts via AppSignal.
+Open-source monitoring tool for UiPath Orchestrator built for enterprise and critical infrastructure teams. Tracks job health, queue stats, and sends observability alerts via AppSignal.
 
 Key details:
 - Real-time job and queue health monitoring
 - AppSignal integration for alerts and observability
-- Designed for high-availability government environments
-
----
-
-### Government Process Automation — Eligibility & Benefits Workflows
-
-![UiPath](https://img.shields.io/badge/UiPath-F26522?style=flat)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-
-End-to-end RPA automation for state government eligibility determination and benefits processing workflows. Reduced manual processing time significantly across multiple departments.
-
-Key details:
-- Automated eligibility checks across multiple legacy systems
-- Exception handling and full audit trail logging
-- Integrated with state mainframe and web portals
-
----
-
-### Document Processing Automation — Invoice & Claims
-
-![UiPath](https://img.shields.io/badge/UiPath-F26522?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-![OCR](https://img.shields.io/badge/Document%20Understanding-OCR-34A853?style=flat)
-
-Intelligent document processing pipeline for invoice validation and claims management using UiPath Document Understanding and OCR. Reduced manual review effort across finance operations.
-
-Key details:
-- Automated extraction from structured and unstructured documents
-- ML-based document classification
-- End-to-end validation with exception handling
-
----
-
-### Power Automate — Enterprise Workflow Automation
-
-![PowerAutomate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
-![Microsoft365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat)
-
-Cloud-based workflow automation using Power Automate for enterprise approval flows, SharePoint integrations, and Teams notifications across business units.
+- Designed for high-availability environments
 
 ---
 
